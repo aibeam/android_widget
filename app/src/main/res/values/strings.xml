@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WidgetEx</string>
+    <string name="app_male">남</string>
+    <string name="app_female">여</string>
+</resources>
